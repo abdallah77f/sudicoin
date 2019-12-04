@@ -1,0 +1,2 @@
+# sudicoin
+Just another coin
